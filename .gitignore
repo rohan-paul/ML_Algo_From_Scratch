@@ -98,13 +98,6 @@ build/
 **/*.txt
 /.txt
 
-*.csv
-/*.csv
-*/*.csv
-**/*.csv
-/.csv
-
-
 *glove_vectors
 /glove_vectors
 */*glove_vectors
